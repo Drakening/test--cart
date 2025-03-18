@@ -1,5 +1,4 @@
-// Storing all the data in shop items
-// The id has to be unique and connects to the cart as well
+
 const shopItemsData = [
     {
         id: "number1",
@@ -23,6 +22,13 @@ const shopItemsData = [
         img: "images/f4.jpg"
     },
     {
+        id: "number4",
+        brand: "knox hill",
+        name: "Angel dust long sleeve",
+        price: "250",
+        img: "images/f5.jpg"
+    },
+   {
         id: "number4",
         brand: "knox hill",
         name: "Angel dust long sleeve",
